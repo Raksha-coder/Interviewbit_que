@@ -6,3 +6,9 @@ Day 1:
   
    learn how setprecision() function work, 
    we have to use iomanip header file for it
+   
+   
+   There are three types of Type Casting
+    - C-style
+    -Function Notation
+    -Type Conversion Operator

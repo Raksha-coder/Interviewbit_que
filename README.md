@@ -34,4 +34,10 @@ from bottom to top
 # precision error with double and float
 
  double and float do not give acurate value or fixed value, they does not support setprecision() very well
+ 
+ 
+ **fixed** --   to remove the scientific calculation use
+ 
+ **setprecision** -- to control decimal after a value
+ 
    

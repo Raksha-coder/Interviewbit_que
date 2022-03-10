@@ -16,9 +16,13 @@ character
 
 from bottom to top 
 
+**INT_MAX** ==  INT_MAX is a in-defined variable used to see the maximum range of int data type.
+
 **Example**:
 7/2 == 3                (int/int == int),
-7/2.0 == 3.5            (int/float == float)
+7/2.0 == 3.5            (int/float == float),
+'c' + 1  == 100         (char + int == int)
+//99(ASCII) + 1
 
 
    
